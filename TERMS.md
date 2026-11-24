@@ -29,8 +29,9 @@ or sell the app as your own. Nothing in these terms stops you doing something th
 or a licence of a part of the app listed in THIRD-PARTY-NOTICES.txt, gives you the right to do.
 
 5. WHAT THE APP DOES TO YOUR PC
-The app only deletes temporary files, empties the Recycle Bin, or closes an application when
-you press the button for it and confirm. Its automatic actions only free up idle memory; they
+The app only deletes temporary files that are not in use, or closes an application, when you
+press the button for it (ending an application asks you to confirm first). It never touches the
+Recycle Bin. Its automatic actions only free up idle memory; they
 close nothing and delete nothing. The app can switch Wi-Fi, Bluetooth and Do not disturb when
 you ask. It changes Windows' own "start with Windows" settings only when you flip a switch.
 

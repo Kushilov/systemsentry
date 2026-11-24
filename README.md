@@ -23,6 +23,7 @@ Windows may say it "protected your PC", because the app is new and not yet widel
 | One-click clean-up of temporary files and memory | | Yes |
 | Automatic memory trimming and CPU warnings (you choose the levels) | | Yes |
 | Startup apps on/off | | Yes |
+| Application list: tick background apps (Widgets, Phone Link and more) to keep closed | | Yes |
 
 ## Buy the full version: $9, once
 
@@ -37,13 +38,15 @@ Windows may say it "protected your PC", because the app is new and not yet widel
 
 ![Performance](docs/performance.png) ![Settings](docs/settings.png)
 
-![Startup](docs/startup.png) ![After the trial](docs/trial-ended.png)
+![Startup](docs/startup.png) ![Application list](docs/application-list.png)
+
+![Licence](docs/licence.png) ![After the trial](docs/trial-ended.png)
 
 ## Questions
 
 **Does it send my data anywhere?** No analytics, no tracking. The only internet use is checking your licence key with the payment service (Polar).
 
-**Will it close my apps or delete my files?** Never by itself. Automatic actions only free idle memory. Deleting temporary files or ending an app happens only when you press the button and confirm.
+**Will it close my apps or delete my files?** Never by itself. Automatic actions only free idle memory. Deleting temporary files or ending an app happens only when you press its button (ending an app asks you to confirm first). The Recycle Bin is never touched.
 
 **Which Windows?** Windows 11. 64-bit.
 
@@ -54,4 +57,3 @@ Windows may say it "protected your PC", because the app is new and not yet widel
 ## Legal
 
 Read the [terms of use](TERMS.md) and the [third-party notices](THIRD-PARTY-NOTICES.md). The source code is private.
-
