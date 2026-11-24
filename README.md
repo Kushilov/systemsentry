@@ -26,7 +26,7 @@ Windows may say it "protected your PC", because the app is new and not yet widel
 
 ## Buy the full version: $9, once
 
-**[Buy System Sentry - $9](PASTE-YOUR-POLAR-CHECKOUT-LINK-HERE)**
+**[Buy System Sentry - $9](https://buy.polar.sh/polar_cl_ZwDDTx3mIVMecB9yPPVLnD0n4tjBzUP6Q31F00CNd72)**
 
 - One payment. No subscription. Covers all 1.x versions.
 - Use it on up to 3 of your PCs.
@@ -54,3 +54,4 @@ Windows may say it "protected your PC", because the app is new and not yet widel
 ## Legal
 
 Read the [terms of use](TERMS.md) and the [third-party notices](THIRD-PARTY-NOTICES.md). The source code is private.
+
